@@ -1,0 +1,30 @@
+body{
+    background-color: #030A16;
+}
+
+.ticket-img{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 60%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.content h3{
+    font-family: 'Outfit';
+    font-weight: 300;
+    color:#fff;
+    font-size: 4rem;
+
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
